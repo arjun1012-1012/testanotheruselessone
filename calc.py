@@ -1,6 +1,6 @@
 def add(x,y):
     """ADD FUNCTION"""
-    return x - y
+    return x + y
 
 def subtract(x,y)
     """" SUB FUNCTION """
